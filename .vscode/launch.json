@@ -7,7 +7,7 @@
             "request": "launch",
             "args": [],
             "program": "${workspaceFolder}",
-            "console": "integratedTerminal"
+            "console": "internalConsole"
         }
     ]
 }
