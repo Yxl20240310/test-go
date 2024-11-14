@@ -16,6 +16,6 @@ func main() {
 
 	err := http.ListenAndServe(fmt.Sprintf(":%d", PORT), nil)
 	if err != nil {
-		fmt.Println("Failed to start the server:", err)
+		.Println("Failed to start the server:", err)
 	}
 }
