@@ -1,4 +1,4 @@
-# jianjie
+# 说明
 
 此示例演示了使用 Golang 运行时启动一个基础 HTTP 服务。
 
